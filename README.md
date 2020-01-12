@@ -3,7 +3,7 @@
 
 Web Development 101
 Online Odin Project - Remake the Google homepage
-https://github.com/BlznDoll/google-homepage
+https://blzndoll.github.io/google-hompage
 
 # usage
 
